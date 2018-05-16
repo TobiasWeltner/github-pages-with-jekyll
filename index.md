@@ -5,11 +5,11 @@ Welcome! It takes less than 5 minutes for you to download and setup the ISEStero
 x = ('a', 1, False)
 {% endhighlight %}
 Download and install ISESteroids from the Microsoft PowerShell Gallery:
-... posh
+```posh
 Install-Module -Name ISESteroids -Scope CurrentUser
-...
+```
 Next, launch the ISE editor, and start ISESteroids:
-... posh
+```posh
 ise
 Start-Steroids
-...
+```
