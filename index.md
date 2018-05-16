@@ -1,3 +1,3 @@
-# Welcome to my blog
+# ISESteroids - Create Safe and State-of-the-Art PowerShell Code Fast!
 
-I'm glad you are here. I plan to talk about ...
+Welcome! It takes less than 5 minutes for you to download and setup the ISESteroids extension for your built-in ISE PowerShell editor!
